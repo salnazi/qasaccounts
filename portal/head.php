@@ -31,3 +31,6 @@
 		gtag('config', 'UA-119386393-1');
 	</script>-->
 </head>
+<?php
+	error_reporting(0);
+?>

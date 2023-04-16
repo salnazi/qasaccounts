@@ -1,8 +1,8 @@
 <div class="left-side-bar">
 		<div class="brand-logo">
 			<a href="index.php">
-				<img src="vendors/images/deskapp-logo.svg" alt="" class="dark-logo">
-				<img src="vendors/images/deskapp-logo-white.svg" alt="" class="light-logo">
+				<img src="vendors/images/qas_logo.gif"" alt="" class="dark-logo" style='width:75px;'> 
+				<img src="vendors/images/qas_logo.gif" alt="" class="light-logo" style='width:75px;'> &nbsp;  QAS Portal
 			</a>
 			<div class="close-sidebar" data-toggle="left-sidebar-close">
 				<i class="ion-close-round"></i>
@@ -12,16 +12,20 @@
 			<div class="sidebar-menu">
 				<ul id="accordion-menu">
 
+				
+					<li>
+						<span class="micon dw dw-file"></span><span class="mtext" style="font-size:10px;"></span>
+					</li>
+
 					<li>
 						<a href="sitemap.php" class="dropdown-toggle no-arrow">
-							<span class="micon dw dw-diagram"></span><span class="mtext" style="font-size:10px;">Accounting & BookKeeping
-							</span>
+							<span class="micon dw dw-file"></span><span class="mtext" style="font-size:10px;">Accounting & BookKeeping</span>
 						</a>
 					</li>
 
 					<li class="dropdown">
 						<a href="javascript:;" class="dropdown-toggle">
-							<span class="micon dw dw-house-1"></span><span class="mtext" style="font-size:10px;"">VAT</span>
+							<span class="micon dw dw-file"></span><span class="mtext" style="font-size:10px;"">VAT</span>
 						</a>
 						<ul class="submenu">
 							<li><a href="index.php" style="font-size:10px;"">VAT Registration</a></li>
@@ -31,7 +35,7 @@
 
 					<li class="dropdown">
 						<a href="javascript:;" class="dropdown-toggle">
-							<span class="micon dw dw-house-1"></span><span class="mtext" style="font-size:10px;"">Audit Report</span>
+							<span class="micon dw dw-file"></span><span class="mtext" style="font-size:10px;"">Audit Report</span>
 						</a>
 						<ul class="submenu">
 							<li><a href="index.php" style="font-size:10px;"">Internal Audit Report</a></li>
@@ -41,51 +45,43 @@
 
 					<li>
 						<a href="sitemap.php" class="dropdown-toggle no-arrow">
-							<span class="micon dw dw-diagram"></span><span class="mtext" style="font-size:10px;">Pay-roll services
-							</span>
+							<span class="micon dw dw-file"></span><span class="mtext" style="font-size:10px;">Pay-roll services</span>
 						</a>
 					</li>
 
 					<li>
 						<a href="sitemap.php" class="dropdown-toggle no-arrow">
-							<span class="micon dw dw-diagram"></span><span class="mtext" style="font-size:10px;">Inventory Management
-							</span>
+							<span class="micon dw dw-file"></span><span class="mtext" style="font-size:10px;">Inventory Management</span>
 						</a>
 					</li>
 
 					<li>
 						<a href="sitemap.php" class="dropdown-toggle no-arrow">
-							<span class="micon dw dw-diagram"></span><span class="mtext" style="font-size:10px;">Financial Modeling & Business Valuation.
-							</span>
+							<span class="micon dw dw-file"></span><span class="mtext" style="font-size:10px;">Financial Modeling & Business Valuation</span>
 						</a>
 					</li>
 
 					<li>
 						<a href="sitemap.php" class="dropdown-toggle no-arrow">
-							<span class="micon dw dw-diagram"></span><span class="mtext" style="font-size:10px;">Bank Reconciliation Statement (BRS)
-							</span>
+							<span class="micon dw dw-file"></span><span class="mtext" style="font-size:10px;">Bank Reconciliation Statement (BRS)</span>
 						</a>
 					</li>
 
 					<li>
 						<a href="sitemap.php" class="dropdown-toggle no-arrow">
-							<span class="micon dw dw-diagram"></span><span class="mtext" style="font-size:10px;">Backlogs data entry and finalizing Accounts
-							</span>
+							<span class="micon dw dw-file"></span><span class="mtext" style="font-size:10px;">Backlogs data entry and finalizing Accounts</span>
 						</a>
 					</li>
 
 					<li>
 						<a href="sitemap.php" class="dropdown-toggle no-arrow">
-							<span class="micon dw dw-diagram"></span><span class="mtext" style="font-size:10px;">Financial Forecast & Budgeting.
-
-							</span>
+							<span class="micon dw dw-file"></span><span class="mtext" style="font-size:10px;">Financial Forecast & Budgeting</span>
 						</a>
 					</li>
 
 					<li>
 						<a href="sitemap.php" class="dropdown-toggle no-arrow">
-							<span class="micon dw dw-diagram"></span><span class="mtext" style="font-size:10px;">Financial Ratio Analysis
-							</span>
+							<span class="micon dw dw-file"></span><span class="mtext" style="font-size:10px;">Financial Ratio Analysis</span>
 						</a>
 					</li>
 
