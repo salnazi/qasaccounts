@@ -11,7 +11,6 @@
         include("left_side_bar.php");
 
         if($_GET['id'] == 'accounts'){
-            echo "asdasd";
             include("accounts.php");
         }
 
