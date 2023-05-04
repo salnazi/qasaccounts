@@ -9,7 +9,7 @@
         include("top_nav.php");
         //include("right_side_bar.php");
         include("left_side_bar.php");
-        i//nclude("main_container.php");
+        //nclude("main_container.php");
         include("footer_js.php");
     ?>
 </body>
