@@ -133,52 +133,29 @@
                                     </div>
 
                                     <div class="form-group row">
-										<label class="col-sm-4 col-form-label" style='color:#3B3B3B;font-weight:bold;'>Concerned person's Email.</label>
+										<label class="col-sm-4 col-form-label" style='color:#3B3B3B;font-weight:bold;'>Turnover Declaration for the last 12 months <br><small style='color:#7F0253;'>(must be signed, stamped and printed on company letterhead).</small></label>
 										<div class="col-sm-8">
 											<div class="input-box" > 
-												<input type="text" name="vat_email" placeholder='Enter valid email' class='form-control'>
+                                                <input type="file" name="turnover[]" multiple class='form-control'>
 											</div>
+										</div>
+									</div>
+
+                                   
+									<div class="form-group row">
+										<label class="col-sm-4 col-form-label" style='color:#3B3B3B;font-weight:bold;'>Business is doing export and import Option</label>
+										<div class="col-sm-8">
+											<input type='radio' name='imp_exp' value = 'yes' required> YES
+											<input type='radio' name='imp_exp' value = 'no' required> NO 
 										</div>
 									</div>
 
                                     <div class="form-group row">
-										<label class="col-sm-4 col-form-label" style='color:#3B3B3B;font-weight:bold;'>Concerned person's Email.</label>
+										<label class="col-sm-4 col-form-label" style='color:#3B3B3B;font-weight:bold;'>Business is dealing with any custom department? <br><small style='color:#7F0253;'>If yes, then attach the VAT Registration Letter.</small> </label>
 										<div class="col-sm-8">
 											<div class="input-box" > 
-												<input type="text" name="vat_email" placeholder='Enter valid email' class='form-control'>
+                                                <input type="file" name="vat_letter[]" multiple class='form-control'>
 											</div>
-										</div>
-									</div>
-
-
-									<div class="form-group row">
-										<label class="col-sm-4 col-form-label" style='color:#3B3B3B;font-weight:bold;'>No. of Invoices</label>
-										<div class="col-sm-8">
-											<input type='radio' name='inv' value = '0-1' required> 0 - 1 invoices &nbsp;&nbsp;&nbsp;<span style='color:#7F0253;font-weight:bold;padding:2px;width:100px;'>750 &nbsp;&nbsp;AED</span> <br/>
-											<input type='radio' name='inv' value = '2-50' required>  2 - 50 invoices <span style='color:#7F0253;font-weight:bold;padding:2px;width:100px;'>1000 AED</span> <br/>
-											<input type='radio' name='inv' value = '50plus' required>  51 + invoices &nbsp;&nbsp;&nbsp;<span style='color:#7F0253;font-weight:bold;padding:2px;width:100px;'>2500 AED</span> 
-										</div>
-									</div>
-									<div class="form-group row">
-										<label class="col-sm-4 col-form-label" style='color:#3B3B3B;font-weight:bold;'>I would like get</label>
-										<div class="col-sm-8">
-											<input type='checkbox' name='statementReq' value = 'profit-and-loss-statement'> Profit & Loss Statement <br/>
-											<input type='checkbox' name='statementReq' value = 'balance-sheet'> Balance Sheet <br/>
-											<input type='checkbox' name='statementReq' value = 'cash-flow'> Cash Flow 
-										</div>
-									</div>
-									<div class="form-group row">
-										<label class="col-sm-4 col-form-label" style='color:#3B3B3B;font-weight:bold;'>Comment</label>
-										<div class="col-sm-8">
-											<textarea cols='70' rows='7' name='comment'></textarea>
-										</div>
-									</div>
-									
-									<div class="form-group row">
-										<label class="col-sm-4 col-form-label" style='color:#3B3B3B;font-weight:bold;'>Subscription</label>
-										<div class="col-sm-8">
-											<input type='radio' name='sub' value='OneTime' required> One Time 
-											<input type='radio' name='sub' value='Monthly' required> Monthly <br/>
 										</div>
 									</div>
 
