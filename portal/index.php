@@ -10,8 +10,11 @@
         //include("right_side_bar.php");
         include("left_side_bar.php");
 
-        if($_GET['id'] == 'accounts'){
-            include("accounts.php");
+        if($_GET['id'] == 'accounts-and-bookkeeping'){
+            include("accounts-and-bookkeeping.php");
+        }
+        if($_GET['id'] == 'vat-registration'){
+            include("vat-registration.php");
         }
 
         if($_GET['id'] == 'dashboard'){
