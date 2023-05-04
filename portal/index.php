@@ -5,6 +5,7 @@
 ?>
 <body>
 	<?php
+        
         include("preloader.php");
         include("top_nav.php");
         //include("right_side_bar.php");
