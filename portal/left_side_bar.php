@@ -18,7 +18,11 @@
 					</li>
 
 					<li>
+<<<<<<< HEAD
 						<a href="sitemap.php" class="dropdown-toggle no-arrow">
+=======
+						<a href="<?php echo $_SERVER['PHP_SELF']; ?>?id=accounts-and-bookkeeping" class="dropdown-toggle no-arrow">
+>>>>>>> b847edf943f41d6ffd49fe3eba846435e38bf0ca
 							<span class="micon dw dw-file"></span><span class="mtext" style="font-size:10px;">Accounting & BookKeeping</span>
 						</a>
 					</li>
@@ -28,8 +32,13 @@
 							<span class="micon dw dw-file"></span><span class="mtext" style="font-size:10px;"">VAT</span>
 						</a>
 						<ul class="submenu">
+<<<<<<< HEAD
 							<li><a href="index.php" style="font-size:10px;"">VAT Registration</a></li>
 							<li><a href="index2.php" style="font-size:10px;"">VAT Filing</a></li>
+=======
+							<li><a href="<?php echo $_SERVER['PHP_SELF']; ?>?id=vat-registration" style="font-size:10px;"">VAT Registration</a></li>
+							<li><a href="<?php echo $_SERVER['PHP_SELF']; ?>?id=vat-filing" style="font-size:10px;"">VAT Filing</a></li>
+>>>>>>> b847edf943f41d6ffd49fe3eba846435e38bf0ca
 						</ul>
 					</li>
 
@@ -49,7 +58,11 @@
 						</a>
 					</li>
 
+<<<<<<< HEAD
 					<li>
+=======
+					<!--<li>
+>>>>>>> b847edf943f41d6ffd49fe3eba846435e38bf0ca
 						<a href="sitemap.php" class="dropdown-toggle no-arrow">
 							<span class="micon dw dw-file"></span><span class="mtext" style="font-size:10px;">Inventory Management</span>
 						</a>
@@ -83,9 +96,17 @@
 						<a href="sitemap.php" class="dropdown-toggle no-arrow">
 							<span class="micon dw dw-file"></span><span class="mtext" style="font-size:10px;">Financial Ratio Analysis</span>
 						</a>
+<<<<<<< HEAD
 					</li>
 
 				</ul>
+=======
+					</li>-->
+
+				</ul>
+
+
+>>>>>>> b847edf943f41d6ffd49fe3eba846435e38bf0ca
 				<!--<ul id="accordion-menu">
 					<li class="dropdown">
 						<a href="javascript:;" class="dropdown-toggle">
