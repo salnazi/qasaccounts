@@ -16,35 +16,43 @@
 
                     <h1 class="text-2xl xl:text-3xl font-extrabold"> QAS Sign In </h1> <br>
 
-                    <form action='<?php echo $_SERVER['PHP_SELF']; ?>' method='POST'>
+                    <form action="<?php echo $_SERVER['PHP_SELF']; ?>" method='POST'>
                         
                         <div class="form-group">
                             <span>Email</span>
-                            <input class="form-field" type="email" placeholder="Email" name='email' style='width:300px;'>
+                            <input class="form-field" type="email" placeholder="Email" name='email' style='width:300px;' value='salnazi@gmail.com'>
                             <!--<span>@gmail.com</span>-->
                         </div>
 
                         <div class="form-group">
                             <span>Password</span>
-                            <input class="form-field" type="password" placeholder="Password" name='password' style='width:300px;'>
+                            <input class="form-field" type="password" placeholder="Password" name='password' style='width:300px;' value='salnazi'>
                         </div>
 
                         <input type='submit' name='login' value='Login' class="form-field" style='background:green;color:white;'> 
      
                     </form>
+                    <?php 
+                        if($_POST['login'] == 'Login'){
+                            if($_POST['email'] != 'salnazi@gmail.com' || $_POST['password'] != 'salnazi'){
+                                echo '<br><div class="alert alert-danger alert-dismissible fade show"><h5 style="color:#7F0253;">Invalid Username/Password!</div>';
+                            }else {
+                                header("Location: portal/index.php");
+                            }
+                        } 
+                    ?>
                 </div>
+                
                 <p class="mt-6 text-xs text-gray-600 text-center"> Don't have account <a href="registration.php" class="border-b border-gray-500 border-dotted"> Register New Account </a> </p>
                 </div>
                 <div class="flex-1 bg-indigo-100 text-center hidden lg:flex">
                     <div class="m-12 xl:m-16 w-full bg-contain bg-center bg-no-repeat" style="background-image: url('https://storage.googleapis.com/devitary-image-host.appspot.com/15848031292911696601-undraw_designer_life_w96d.svg');" >
                     </div>
                 </div>
+               
             </div>
         </div>
     </div>
 
 </section>
 
-<?php
-    // do process here
-?>
