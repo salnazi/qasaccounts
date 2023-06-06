@@ -17,24 +17,24 @@
             <div class="col-xl-5">
               <div class="inset-1">
                 <h2>Our Office</h2>
-                <p class="big">If you are living nearby, come visit Businet at one of our comfortable offices.</p>
+                <p class="big">Visit Us.</p>
                 <div class="row row-50">
                   <div class="col-sm-6 col-xl-12">
-                    <p class="heading-7">office 1</p>
+                    <p class="heading-7">QAS Office</p>
                     <ul class="list list-style-1">
                       <li class="unit"><span class="unit-left icon icon-sm text-accent mdi mdi-map-marker"></span>
-                        <div class="unit-body"><a href="#">9863 - 9867 Mill Road, Cambridge, MG09 99HT</a></div>
+                        <div class="unit-body"><a href="#">Jumeirah Lake Towers, Cluster-I, Silver Tower, Office#5G</a></div>
                       </li>
                       <li class="unit"><span class="unit-left icon icon-sm text-accent mdi mdi-cellphone"></span>
-                        <div class="unit-body"><a href="tel:#">+1 800 603 6035</a></div>
+                        <div class="unit-body"><a href="tel:#">+971 50 194 2984</a></div>
                       </li>
                       <li class="unit"><span class="unit-left icon icon-sm text-accent mdi mdi-email-outline"></span>
-                        <div class="unit-body"><a class="text-accent" href="mailto:#">mail@demolink.org</a></div>
+                        <div class="unit-body"><a class="text-accent" href="mailto:#">info@qasaccounts.com</a></div>
                       </li>
                     </ul>
                   </div>
                   <div class="col-sm-6 col-xl-12">
-                    <p class="heading-7">Office 2</p>
+                    <p class="heading-7">Office 5G</p>
                     <ul class="list list-style-1">
                       <li class="unit"><span class="unit-left icon icon-sm text-accent mdi mdi-map-marker"></span>
                         <div class="unit-body"><a href="#">9870 St Vincent Place, Glasgow, DC 45 Fr 45</a></div>

@@ -1,21 +1,34 @@
-<section class="breadcrumbs-custom" >
 
-<div class="container">
-<ul class="breadcrumbs-custom-path">
-    <li><a href="index.php">Home</a></li>
-    <li class="active">Sign Up</li>
-</ul>
-</div>
+<section class="breadcrumbs-custom">
+    <div style="background:#044A80;height:150px;">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-xl-9">
+                    <h2 class="breadcrumbs-custom-title" style="margin-top:40px;color:#D5D4D3;">Registration</h2>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="breadcrumbs-custom-aside">
+        <div class="container">
+            <ul class="breadcrumbs-custom-path">
+                <li><a href="index.php">Home</a></li>
+                <li class="active">Registration</li>
+            </ul>
+        </div>
+    </div>
+</section>
+            
 
 <div class="min-h-screen bg-gray-100 text-gray-900 flex justify-center">
 <div class="max-w-screen-xl m-0 sm:m-20 bg-white shadow sm:rounded-lg flex justify-center flex-1">
     <div class="lg:w-1/2 xl:w-5/12 p-6 sm:p-12">
     
     <div class="mt-12 flex flex-col items-center">
-        
-        <h1 class="text-2xl xl:text-3xl font-extrabold"> Create your account </h1>
+        <h1 class="text-2xl xl:text-3xl font-extrabold">
+        Create your account
+        </h1>
         <br>
-
         <form action='<?php echo $_SERVER['PHP_SELF']; ?>' method='POST'>
             
             <div class="form-group">
@@ -60,7 +73,7 @@
         </div>
     </div>
 </div>
-
+</div>
 <?php
     // do process here
 ?>

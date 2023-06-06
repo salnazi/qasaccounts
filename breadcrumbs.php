@@ -27,11 +27,11 @@ else if(strpos($url,'login'))
     if( $mode == '1')
     {
         echo '<section class="breadcrumbs-custom">
-                <div class="breadcrumbs-custom-main context-dark">
+                <div style="background:#044A80;height:150px;">
                 <div class="container">
                     <div class="row justify-content-center">
                     <div class="col-xl-9">
-                        <h2 class="breadcrumbs-custom-title">'.$path.'</h2>
+                        <h2 class="breadcrumbs-custom-title" style="margin-top:40px;color:#D5D4D3;">'.$path.'</h2>
                     </div>
                     </div>
                 </div>

@@ -17,16 +17,13 @@
           <div class="row align-items-end justify-content-center">
             <div class="col-md-10 col-lg-7">
               <div class="section-md">
-                <h3> We are an online & offline accounting, bookkeeping.</h3>
-                <p class="text-gray-900">VAT service provider within UAE.
-                    QAS is working at the forefront to show you the
-                    realistic image of your company, with the help of the
-                    most advanced AI-enabled accounting solution.
-                    Our team digs out every bit in order to provide the
-                    most updated reports.</p>
+                <h2> We are an online & On-site Accounting company.</h2>
+                <p class="text-gray-900">QAS Accounting and Book Keeping is a Dubai-based company that specializes in providing comprehensive accounting and audit services, as well as VAT services, to businesses of all sizes. Our team of experts is dedicated to delivering personalized solutions that meet our clients' unique needs. We are committed to ensuring accuracy, compliance, and transparency in all our work, so our clients can focus on growing their businesses with confidence.</p>
+				 <p class="text-gray-900">QAS Accounting and Book Keeping is a Dubai-based company that specializes in providing comprehensive accounting and audit services, as well as VAT services, to businesses of all sizes. Our team of experts is dedicated to delivering personalized solutions that meet our clients' unique needs. We are committed to ensuring accuracy, compliance, and transparency in all our work, so our clients can focus on growing their businesses with confidence.</p>
+				  <p class="text-gray-900">QAS Accounting and Book Keeping is a Dubai-based company that specializes in providing comprehensive accounting and audit services, as well as VAT services, to businesses of all sizes. </p>
               </div>
             </div>
-            <div class="col-md-10 col-lg-5 text-center"><img src="images/about-1-379x570.jpg" alt="" width="379" height="570"/>
+            <div class="col-md-10 col-lg-5 text-center"><img src="images/379x570.png" alt="" width="379" height="570"/>
             </div>
           </div>
         </div>
@@ -40,8 +37,8 @@
                 <div class="block-ratio-dummy"></div>
                 <div class="block-ratio-content">
                   <div class="box-custom-1">
-                    <h2>12700+</h2>
-                    <h4>Businessmen Choose us</h4>
+                    <h2>25+</h2>
+                    <h4>Small and Medium Businesses Choose us</h4>
                   </div>
                 </div>
               </div>
@@ -49,25 +46,25 @@
             <div class="col-12 col-sm-6 col-md-8 isotope-item">
               <div class="block-ratio block-ratio-3">
                 <div class="block-ratio-dummy"></div>
-                <div class="block-ratio-content bg-image" style="background-image: url(images/about-1-770x426.jpg);"></div>
+                <div class="block-ratio-content bg-image"><img src="images/about-1-770x426.png" alt="" width="770" height="426"/></div>
               </div>
             </div>
             <div class="col-12 col-sm-6 col-md-4 isotope-item">
               <div class="block-ratio block-ratio-2">
                 <div class="block-ratio-dummy"></div>
-                <div class="block-ratio-content bg-image" style="background-image: url(images/about-2-369x432.jpg);"></div>
+                <div class="block-ratio-content bg-image"><img src="images/369x432.png" alt="" width="369" height="432"/></div>
               </div>
             </div>
             <div class="col-12 col-sm-6 col-md-4 isotope-item">
               <div class="block-ratio block-ratio-1">
                 <div class="block-ratio-dummy"></div>
-                <div class="block-ratio-content bg-image" style="background-image: url(images/about-3-370x251.jpg);"></div>
+                <div class="block-ratio-content bg-image"><img src="images/370x251.png" alt="" width="370" height="251"/></div>
               </div>
             </div>
             <div class="col-12 col-sm-6 col-md-4 isotope-item">
               <div class="block-ratio block-ratio-1">
                 <div class="block-ratio-dummy"></div>
-                <div class="block-ratio-content bg-image" style="background-image: url(images/about-4-370x251.jpg);"></div>
+                <div class="block-ratio-content bg-image"><img src="images/370x251_finance.png" alt="" width="370" height="251"/></div>
               </div>
             </div>
           </div>
@@ -123,20 +120,20 @@
         </div>
       </section>
       <!-- People Ready to Change the World-->
-      <section class="section section-md bg-gray-100 text-center">
-        <div class="container">
+      <section class="section section-md bg-gray-100 text-center" id='team'>
+        <div class="container" >
           <div class="badge">Meet Our Team</div>
-          <h3>People Ready to Help You</h3>
+          <h3 >We are ready to help you!</h3>
           <!-- Owl Carousel-->
-          <div class="owl-carousel owl-carousel_profile-modern" data-items="1" data-sm-items="2" data-lg-items="3" data-xl-items="4" data-dots="true" data-nav="false" data-stage-padding="0" data-loop="true" data-margin="30" data-mouse-drag="false">
+          <div class="owl-carousel owl-carousel_profile-modern" data-items="1" data-sm-items="2" data-lg-items="3" data-xl-items="4" data-dots="true" data-nav="false" data-stage-padding="0" data-loop="true" data-margin="30" data-mouse-drag="false" >
             <!-- Profile Modern-->
-            <article class="profile-modern">
-              <figure class="profile-modern-figure"><img class="profile-modern-image" src="images/team-1-369x315.jpg" alt="" width="369" height="315"/>
+            <article class="profile-modern" >
+              <figure class="profile-modern-figure"><img class="profile-modern-image" src="images/226x227_Arshad.png" alt="" width="369" height="315"/>
               </figure>
               <div class="profile-modern-main">
                 <div class="profile-modern-main-item profile-modern-main-item_primary">
-                  <h4 class="profile-modern-name">Michael Logan</h4>
-                  <p class="profile-modern-position">Managing Director</p>
+                  <h4 class="profile-modern-name">Arshad Khan</h4>
+                  <p class="profile-modern-position">Founder & CEO</p>
                 </div>
                 <div class="profile-modern-main-item profile-modern-main-item_secondary">
                   <h4 class="profile-modern-main-title">Get in Touch</h4>
@@ -151,12 +148,12 @@
             </article>
             <!-- Profile Modern-->
             <article class="profile-modern">
-              <figure class="profile-modern-figure"><img class="profile-modern-image" src="images/team-2-369x315.jpg" alt="" width="369" height="315"/>
+              <figure class="profile-modern-figure"><img class="profile-modern-image" src="images/266x227_Saif.png" alt="" width="369" height="315"/>
               </figure>
               <div class="profile-modern-main">
                 <div class="profile-modern-main-item profile-modern-main-item_primary">
-                  <h4 class="profile-modern-name">Jane Williams</h4>
-                  <p class="profile-modern-position">Executive Consultant</p>
+                  <h4 class="profile-modern-name">Saiful Khan</h4>
+                  <p class="profile-modern-position">Co-founder & General Manager</p>
                 </div>
                 <div class="profile-modern-main-item profile-modern-main-item_secondary">
                   <h4 class="profile-modern-main-title">Get in Touch</h4>
@@ -175,8 +172,8 @@
               </figure>
               <div class="profile-modern-main">
                 <div class="profile-modern-main-item profile-modern-main-item_primary">
-                  <h4 class="profile-modern-name">Gregory Smith</h4>
-                  <p class="profile-modern-position">Safety Consultant</p>
+                  <h4 class="profile-modern-name">Cristina</h4>
+                  <p class="profile-modern-position">Operational Manager</p>
                 </div>
                 <div class="profile-modern-main-item profile-modern-main-item_secondary">
                   <h4 class="profile-modern-main-title">Get in Touch</h4>

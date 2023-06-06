@@ -1,7 +1,7 @@
 <section class="section section-md bg-gray-100 text-center" id='services'>
         <div class="container">
           <div class="badge wow fadeIn" >Our Services</div>
-          <h3 class="wow fadeIn">What We Do</h3>
+          <h2 class="wow fadeIn">WHAT WE DO</h2>
           <div class="row row-30 row-xl-60">
             <div class="col-sm-6 col-lg-4">
               <!-- Box Modern-->
@@ -10,9 +10,9 @@
                   <div class="box-modern-icon mdi mdi-television-guide"></div>
                   <div class="box-modern-circle box-modern-circle-1"></div>
                 </div>
-                <p class="box-modern-title">Market Analysis</p>
+                <p class="box-modern-title">Accounting & Bookkeeping</p>
                 <div class="box-modern-text">
-                  <p>We support your business with fact-based market research.</p>
+                  <p>We provide services to small or medium businesses.</p>
                 </div>
               </article>
             </div>
@@ -23,9 +23,9 @@
                   <div class="box-modern-icon mdi mdi-elevation-rise"></div>
                   <div class="box-modern-circle box-modern-circle-1"></div>
                 </div>
-                <p class="box-modern-title">Funds Management</p>
+                <p class="box-modern-title">Audit Services</p>
                 <div class="box-modern-text">
-                  <p>Allowing you to successfully deal with your company’s funds.</p>
+                  <p>We provide internal and external Audit services.</p>
                 </div>
               </article>
             </div>
@@ -36,9 +36,9 @@
                   <div class="box-modern-icon mdi mdi-presentation"></div>
                   <div class="box-modern-circle box-modern-circle-1"></div>
                 </div>
-                <p class="box-modern-title">PR & Marketing</p>
+                <p class="box-modern-title">VAT Services</p>
                 <div class="box-modern-text">
-                  <p>Helping clients expand awareness and manage their reputation.</p>
+                  <p>We do VAT registeration and VAT filing.</p>
                 </div>
               </article>
             </div>
@@ -49,9 +49,9 @@
                   <div class="box-modern-icon mdi mdi-format-list-numbers"></div>
                   <div class="box-modern-circle box-modern-circle-1"></div>
                 </div>
-                <p class="box-modern-title">Business Planning</p>
+                <p class="box-modern-title">Inventory Management Services</p>
                 <div class="box-modern-text">
-                  <p>Creating an efficient business plan designed to fit your company.</p>
+                  <p>We provide on-site inventory management reports.</p>
                 </div>
               </article>
             </div>
@@ -62,9 +62,9 @@
                   <div class="box-modern-icon mdi mdi-magnify"></div>
                   <div class="box-modern-circle box-modern-circle-1"></div>
                 </div>
-                <p class="box-modern-title">Audit</p>
+                <p class="box-modern-title">Payroll services</p>
                 <div class="box-modern-text">
-                  <p>Deep and detailed investigation of your company’s activity.</p>
+                  <p>We provide payroll services for all kinds of business.</p>
                 </div>
               </article>
             </div>
@@ -77,7 +77,7 @@
                 </div>
                 <p class="box-modern-title">Consulting</p>
                 <div class="box-modern-text">
-                  <p>Focusing on our clients’ most critical issues and opportunities.</p>
+                  <p>We provide consulting for new business and document controlling.</p>
                 </div>
               </article>
             </div>

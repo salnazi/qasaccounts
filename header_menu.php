@@ -15,6 +15,7 @@
                 <!-- RD Navbar Nav-->
                 <?php require_once("top_menu.php"); ?>
               </div>
+			  <div><img src='images/phone.png' style='width:38px;'><b> +971 50 194 2984 </b></div>
               <div class="rd-navbar-element"><a class="button button-sm button-header button-winona" href="login.php">Sign In</a>
               </div>
               <div class="rd-navbar-dummy"></div>
